@@ -1,0 +1,35 @@
+body{
+	font-family:'Comic Sans MS', 'Comic Sans', cursive;
+	text-align: center;
+}
+.header{
+	font-size:36px;
+	font-color:black;
+	margin:30px;
+}
+.container{
+	width:80%;
+	height:auto;
+	margin:auto;
+	font-size:20px;
+}
+.username{
+	float:right;
+	padding:10px 15px;
+}
+.logout{
+	float:right;
+	padding:10px 15px;
+}
+.task-container{
+}
+.task-box{
+	margin-top:30px;
+	text-align:left;
+}
+.panel-body ul{
+	padding-left:20px;
+}
+.panel-body li{
+	padding:10px;
+}
